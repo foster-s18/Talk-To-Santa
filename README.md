@@ -13,7 +13,8 @@
 ## Video Demonstration
 
 Check out the video demonstration of the app in action!  
-[Watch the demo](video/demo.mp4)
+[Watch the demo video here](https://raw.githubusercontent.com/foster-s18/Talk-To-Santa/main/video/demo.mp4)
+
 
 
 
