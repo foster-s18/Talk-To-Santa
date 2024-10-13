@@ -7,10 +7,17 @@
 - **Conversational Interface**: Enables children to talk to Santa in a realistic and engaging way.
 - **OpenAI Integration**: Uses OpenAI's language model for natural dialogue.
 - **Voice Synthesis**: Incorporates Eleven Labs' Santa voice for realistic responses.
+- 
 ![Screenshot of Talk to Santa App](/images/talk_to_santa.png) <!-- Make sure the file name and path are correct -->
 
 ## Video Demonstration
+
+Check out the video demonstration of the app in action!
+
 [Download the demo video](https://github.com/foster-s18/Talk-To-Santa/raw/main/video/demo.mp4)
+
+*Click the link above to download and view the demo video!*
+
 **Note:** The audio quality in this video may not be optimal. I plan to improve it and upload a new version when I have time.
 
 
