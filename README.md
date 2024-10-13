@@ -12,7 +12,11 @@
 
 ## Video Demonstration
 
-Check out the video demonstration of the app in action! [Watch here](/video/demo.mp4) <!-- Replace with the actual link to your video -->
+Check out the video demonstration of the app in action! 
+<video width="600" controls>
+  <source src="./video/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> <!-- Replace with the actual link to your video -->
 
 ## Showcase
 
