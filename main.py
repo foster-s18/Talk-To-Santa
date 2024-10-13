@@ -15,7 +15,7 @@ voice_id = "Gqe8GJJLg3haJkTwYj2L"
 
 # api keys open ai/elevenlabs
 open_ai = OpenAI(api_key="ADD API KEY")
-elevenlabs = ElevenLabs(api_key="ADD API KEY")  # Replace with your ElevenLabs API key
+elevenlabs = ElevenLabs(api_key="ADD API KEY")  
 
 class MainWindow(QMainWindow):
     def __init__(self, parent=None):
@@ -68,7 +68,7 @@ class MainWindow(QMainWindow):
                     self.disconnect()
                 except WaitTimeoutError:
                     print("Listening timed out; no phrase detected.")
-                    self.disconnect()  # Disconnect or take appropriate action
+                    self.disconnect()  
                 except sr.RequestError as e:
                     print(f"Could not request results from Google Speech Recognition service; {e}")
                     self.disconnect()
@@ -99,7 +99,6 @@ class MainWindow(QMainWindow):
             self.talk(response.choices[0].message.content)
         except Exception as e:
             print(f"An error occurred: {e}")
-
         finally:
             self.disconnect()
 
@@ -115,11 +114,13 @@ class MainWindow(QMainWindow):
         play(audio_stream)
         print("ElevenLabs complete")
 
+    # Play a sound to indicate talk button has been pressed
     def button_sound(self):
         pygame.mixer.init()
         pygame.mixer.music.load("audio/button_push.mp3")
         pygame.mixer.music.play()
-    # Play a sound to indicate a connection has been established
+    
+    # Play a sound to indicate search for connection
     def signal_sound(self):
         pygame.mixer.init()
         pygame.mixer.music.load("audio/signal.mp3")
