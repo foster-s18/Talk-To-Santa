@@ -12,11 +12,9 @@
 
 ## Video Demonstration
 
-Check out the video demonstration of the app in action! 
-<video width="600" controls>
-   <source src="https://github.com/foster-s18/Talk-To-Santa/blob/main/video/demo.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+Check out the video demonstration of the app in action!  
+[Watch the demo](video/demo.mp4)
+
 
 
 ## Showcase
