@@ -5,7 +5,7 @@
 ## Features
 
 - **Conversational Interface**: Enables children to talk to Santa in a realistic and engaging way.
-- **OpenAI Integration**: Uses OpenAI's language model for natural dialogue.
+- **OpenAI Integration**: Harnesses the power of OpenAI to facilitate natural conversations 
 - **Voice Synthesis**: Incorporates Eleven Labs' Santa voice for realistic responses.
   
 ![Screenshot of Talk to Santa App](/images/talk_to_santa.png) <!-- Make sure the file name and path are correct -->
