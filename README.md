@@ -1,6 +1,6 @@
 # Talk to Santa
 
-**Talk to Santa** is an interactive tool for my children, allowing them to engage in conversations with Santa Claus. This project leverages OpenAI and Eleven Labs technologies to create a fun experience for young kids. The user interface image was AI-generated using Microsoft Designer.
+**Talk to Santa** is an interactive tool I made for my children, allowing them to engage in conversations with Santa Claus. This project leverages OpenAI and Eleven Labs technologies to create a fun experience for young kids. The user interface image was AI-generated using Microsoft Designer. Feel free to use or modify the code as you like!
 
 ## Features
 
