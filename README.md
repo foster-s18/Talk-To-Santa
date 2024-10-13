@@ -12,7 +12,7 @@
 
 ## Video Demonstration
 
-Check out the video demonstration of the app in action! [Watch here](https://link-to-your-video.com) <!-- Replace with the actual link to your video -->
+Check out the video demonstration of the app in action! [Watch here](/video/demo_video.mp4) <!-- Replace with the actual link to your video -->
 
 ## Showcase
 
