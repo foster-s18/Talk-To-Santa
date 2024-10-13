@@ -22,5 +22,7 @@ This project is part of my portfolio to demonstrate my skills in programming and
 This project relies on API keys for both OpenAI and Eleven Labs to function. You will need to provide your own API keys for these services.
 
 OpenAI API Key: You can obtain an API key by signing up at OpenAI's official website.
+
 Eleven Labs API Key: You can get an API key by registering at Eleven Labs' official website.
+
 Add the API keys in the main.py file on lines 17 & 18.
