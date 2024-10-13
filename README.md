@@ -20,13 +20,6 @@ Check out the video demonstration of the app in action!
 
 **Note:** The audio quality in this video may not be optimal. I plan to improve it and upload a new version when I have time.
 
-
-
-
-## Showcase
-
-This project is part of my portfolio, showcasing my skills in programming and software development.
-
 ## Important Notes
 
 - This project requires API keys for both OpenAI and Eleven Labs to function.
