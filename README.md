@@ -8,7 +8,7 @@
 - **OpenAI Integration**: Utilizes OpenAI's language model for natural dialogue.
 - **Voice Synthesis**: Incorporates Eleven Labs Santa voice for realistic responses.
 
-![Screenshot of Talk to Santa App](talk_to-santa.png) <!-- Add your screenshot file name here -->
+![Screenshot of Talk to Santa App](/images/talk_to_santa.png) <!-- Add your screenshot file name here -->
 
 ## Video Demonstration
 
